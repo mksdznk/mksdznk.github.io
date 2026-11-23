@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://roki-taxi.si/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roki-taxi.si/" />
+    <xhtml:link rel="alternate" hreflang="sl" href="https://roki-taxi.si/index.slo.html" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://roki-taxi.si/index.slo.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roki-taxi.si/" />
+    <xhtml:link rel="alternate" hreflang="sl" href="https://roki-taxi.si/index.slo.html" />
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://roki-taxi.si/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roki-taxi.si/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="sl" href="https://roki-taxi.si/privacy-policy.slo.html" />
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://roki-taxi.si/privacy-policy.slo.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://roki-taxi.si/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="sl" href="https://roki-taxi.si/privacy-policy.slo.html" />
+    <priority>0.3</priority>
+  </url>
+</urlset>
